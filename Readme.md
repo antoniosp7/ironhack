@@ -2,6 +2,8 @@
 
 My name is Antonio Manuel Salvat Pérez and this is the result of my work for the technical test. In the document it is informed about choosing an option, however, after consulting with the team I decided to work on the two options focusing on the first one.
 
+A requirements.txt file has been created to install the prerequisites.
+
 # Option 1
 
 For the realisation of this option we have use pymongo and pandas Python libraries to save this data using MongoDb, we have also made a small example extracting data from another database instead of a csv file.
