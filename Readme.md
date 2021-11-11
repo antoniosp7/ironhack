@@ -42,12 +42,12 @@ To do so, we have obtained a subset of discarded students to analyse these cause
 After this we see that most of them, 2039 exactly, were discarded for missing the application, a smaller number for not being able to afford the payment (307 students) and the rest in general would be for not being good candidates or personal reasons. Although this seemed to show a problem, upon analysis we can see that the main problem was directly a lack of application.
 Therefore, a study should be carried out to improve this data as it influences the time spent by each of the workers to study a possible new candidate.
 
-![alt text](http://url/to/img.png)
+![Lost Reasons](https://github.com/antoniosp7/ironhack/blob/master/images/lostReasons.png)
 
 Then i analyse the number of students who reject the proposal after having passed the test. Here we have a better figure and that is that only 18 students out of 341 rejected the proposal and most of them were for reasons related to the 'COVID-19' or personal reasons.
 With this data, the most interesting thing to study would be to analyse the few cases rejected due to lack of interest, especially if this lack of interest comes from the procedures carried out, and the people who cannot afford to pay.
 
-![alt text](http://url/to/img.png)
+![Number of drops](https://github.com/antoniosp7/ironhack/blob/master/images/numberDrops.png)
 
 
 ## About the quality of the data
